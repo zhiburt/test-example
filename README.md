@@ -9,6 +9,7 @@ $ cargo test-example README.md
 
 - Add running option (fork issue)
 - Add status field (success/failure)
+- Return file line/column information
 
 ##### Example
 
